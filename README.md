@@ -1,5 +1,5 @@
 # ‍🔬 Rick and Morty
-Projeto com objetivo de criar uma aplicação que possibilitasse o usuário ter o controle das suas finanças, cadastrando valores de entradas e despesas. Foi utilizado os conceitos de components, props, childrens e useState do React. Além, claro, do CSS com animações e responsividade.
+Projeto com objetivo de utilizar pela primeira vez o styled components no ReactJS. A aplicação traz informações sobre os personagens da série animada Rick and Morty, além de ter uma funcionalidade de paginação.
 
 ## 💻 Tecnologia
 - ReactJS
